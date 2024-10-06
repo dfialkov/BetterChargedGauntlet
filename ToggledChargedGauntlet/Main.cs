@@ -12,8 +12,8 @@ namespace ToggledChargedGauntlet
     [BepInDependency(LanguageAPI.PluginGUID)]
 
     [BepInPlugin(
-        "com.MyName.IHerebyGrantPermissionToDeprecateMyModFromThunderstoreBecauseIHaveNotChangedTheName",
-        "IHerebyGrantPermissionToDeprecateMyModFromThunderstoreBecauseIHaveNotChangedTheName",
+        "com.dfialkov.ToggledChargedGauntlet",
+        "ToggledChargedGauntlet",
         "1.0.0")]
     public class CustomSkillTutorial : BaseUnityPlugin
     {

@@ -1,8 +1,8 @@
 ﻿{
-	"name": "MyFirstMod",
+	"name": "Better Charged Gauntlet",
 	"version_number": "1.0.0",
-	"website_url": "",
-	"description": "My first Mod",
+	"website_url": "https://github.com/dfialkov/BetterChargedGauntlet",
+	"description": "A simple mod to reduce hand gymnastics on odd keyboards by changing Loader's Charged Gauntlet so that you hit the key once to begin the charge and then again to release",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
 		"RiskofThunder-HookGenPatcher-1.2.3",
